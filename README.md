@@ -36,6 +36,7 @@ Personal photography portfolio website with a clean, editorial-inspired design.
 It combines high-contrast photography, elegant typography, and minimal layouts for a modern visual identity.
 
 Subtle interactions complete the experience while keeping the focus on the photography.
+
 ---
 
 ## 🛠️ Tech Stack
