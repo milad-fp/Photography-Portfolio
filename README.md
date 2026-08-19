@@ -1,4 +1,4 @@
-## 🖼️ Screenshots
+## 🖼️ Project Preview
 
 <table width="100%">
   <tr>
