@@ -81,9 +81,9 @@ Interested in working together?
 
 **Let's create something visually memorable. ↗**
 
-- 📷 Instagram
-- 🎨 Telegram
-- ✉️ Email
+- 📷 [Instagram](https://instagram.com/milad.w3)
+- 🎨 [Telegram](https://t.me/milad_1288)
+- ✉️ [Email](mailto:ferdospanahm@gmail.com)
 
 ---
 
