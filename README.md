@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td width="100%">
-      <img src="./Portfolio/image/preview.png" style="width: 100%; max-height: 350px; object-fit: cover;">
+      <img src="./Portfolio/image/preview.png" style="width: 100%; max-height: 300px; object-fit: cover;">
     </td>
   </tr>
 </table>
