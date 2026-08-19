@@ -1,3 +1,15 @@
+## 🖼️ Screenshots
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="https://raw.githubusercontent.com/milad-fp/Photography-Portfolio/main/image/preview.png" width="100%">
+    </td>
+  </tr>
+</table>
+
+---
+
 # 📸 Photography Portfolio
 
 ### Fashion & Editorial Photography — Personal Portfolio Website
@@ -52,18 +64,6 @@ Subtle interactions complete the experience while keeping the focus on the photo
 The layout includes responsive breakpoints for tablet and mobile devices.
 
 The portfolio grid changes from four columns on desktop to two columns on smaller screens and eventually a single-column layout on mobile. The services and FAQ sections also adapt to smaller screen sizes.
-
----
-
-## 🖼️ Screenshots
-
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <img src="https://github.com/milad-fp/photography-portfolio/blob/main/Desktop%20-%207%20(13).png" width="100%">
-    </td>
-  </tr>
-</table>
 
 ---
 
