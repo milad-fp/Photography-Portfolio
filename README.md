@@ -31,13 +31,7 @@ The website focuses on **visual storytelling, strong composition, typography, an
 
 ## 📖 About The Project
 
-This project is a personal photography portfolio website created to present a photographer's work through a clean and editorial-inspired digital experience.
-
-The design combines **high-contrast photography, elegant serif typography, minimal layouts, and subtle interactions** to create a visual identity that feels both modern and timeless.
-
-The portfolio includes sections for recent work, photographer introduction, photography services, frequently asked questions, and contact information.
-
-The goal was not only to display photographs, but also to create a website that feels like an extension of the photographer's visual style.
+Personal photography portfolio website with a clean, editorial-inspired design, combining high-contrast photography, elegant typography, minimal layouts, and subtle interactions.
 
 ---
 
