@@ -20,9 +20,9 @@ The website focuses on **visual storytelling, strong composition, typography, an
 - 🖤 **Minimal Dark Aesthetic** — Clean design focused on photography
 - 🎞️ **Hero Image Composition** — Layered and rotated photography layout
 - 🖼️ **Recent Works Gallery — Responsive photography grid
-- ✦ **Photography Services — Fashion, editorial, portrait & commercial services
+- ✦  **Photography Services — Fashion, editorial, portrait & commercial services
 - ✨ **Smooth Hover Effects — Subtle image interactions
-- 📱 **Responsive Design — Optimized for different screen sizes
+- 📱  **Responsive Design — Optimized for different screen sizes
 - 🎨 **Typography-focused UI — Playfair Display & Inter
 
 ---
