@@ -10,7 +10,7 @@ The website focuses on **visual storytelling, strong composition, typography, an
 
 ## 🌐 Live Demo
 
-🔗 [**View Live Portfolio**](https://milad-fp.github.io/Photography-Portfolio/Portfoilo/)
+🔗 [**View Live Portfolio**](https://milad-fp.github.io/Photography-Portfolio/Portfolio/)
 
 ---
 
