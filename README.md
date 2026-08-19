@@ -71,7 +71,7 @@ The portfolio grid changes from four columns on desktop to two columns on smalle
 
 - **Developer:** Milad
 - **Project:** Photography Portfolio
-- **Date:** November 29, 2025
+- **Date:** Aug 19, 2025
 
 ---
 
