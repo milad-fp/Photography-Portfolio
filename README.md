@@ -75,8 +75,6 @@ The portfolio grid changes from four columns on desktop to two columns on smalle
 
 - **Developer:** Milad
 - **Project:** Photography Portfolio
-- **Category:** Personal Portfolio / Photography Website
-- **Focus:** Fashion & Editorial Photography
 - **Year:** 2026
 
 ---
