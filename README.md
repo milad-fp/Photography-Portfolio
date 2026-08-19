@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td width="100%">
-      <img src="https://raw.githubusercontent.com/milad-fp/Photography-Portfolio/main/image/preview.png" width="100%">
+      <img src="./Portfolio/image/preview.png" width="100%">
     </td>
   </tr>
 </table>
